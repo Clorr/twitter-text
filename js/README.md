@@ -66,7 +66,7 @@ twttr.txt.parseTweet(tweet);
   }
 */
 ```
-Details about Twitter's weighted counting scheme are available on the [official developer website](https://developer.twitter.com/en/docs/developer-utilities/twitter-text).
+Details about Twitter's weighted counting scheme are available on the [official developer website](https://developer.twitter.com/en/docs/basics/counting-characters).
 
 ### Marked for Deprecation
 
